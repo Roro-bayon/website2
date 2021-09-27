@@ -1,0 +1,129 @@
+
+#container-head{
+  background-color: #5EAAA8;
+}
+
+.head-img{
+  width: 100%;
+}
+
+.cont-1{
+  padding: 1% 10%;
+}
+
+.lets-go{
+  padding: 0 5% 5% 5%;
+}
+
+.phot-1{
+  padding-bottom: 5%;
+}
+
+
+
+h1{
+  font-family: 'Lobster', cursive;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.lets{
+  color: white;
+  font-size: 4.1rem;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p{
+  padding: 10px 0 0 10px;
+
+}
+
+/* Navbar styling */
+
+.navbar{
+  padding:1% 2%;
+  padding-right: 10%;
+}
+
+.navbar-brand{
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+  margin-left: 12.5%;
+}
+
+.nav-item{
+  margin: 10px;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+#seasons{
+  background-color: white;
+  text-align: center;
+  padding: 30px 90px 50px 90px;
+}
+
+.season-img{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  padding: 20px;
+}
+
+.szn{
+  padding: 20px;
+}
+
+#third-section{
+  background-color: #5EAAA8;
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.label-car{
+  font-size: 2.5rem;
+  font-family: 'Lobster', cursive;
+}
+
+.car-img{
+  width: auto;
+  height: 800px;
+  max-height: 800px;
+}
+
+#expenses{
+  background-color: white;
+  text-align: center;
+}
+#testimonials{
+  background-color: #5EAAA8;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 1.5rem;
+  padding: 10px 0 10px 0;
+}
+
+.mochi{
+  border-radius: 100%;
+  width: 200px;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px 20px;
+}
+
+
+#footer{
+  background-color: #056676;
+  text-align: center;
+  color: white;
+}
